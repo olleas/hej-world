@@ -1,2 +1,4 @@
 # hej-world
-Testprojekt
+Testprojekt hämtat från https://guides.github.com/activities/hello-world/
+
+
